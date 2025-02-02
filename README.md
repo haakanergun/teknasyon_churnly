@@ -1,4 +1,4 @@
-# Müşteri Churn Tahmini (Basit Readme)
+# Müşteri Churn Tahmini
 
 Bu proje, bir telekomünikasyon veri seti üzerinde **müşteri churn (müşteri kaybı)** durumunu tahmin etmeyi amaçlar.  
 Veri seti, müşteri hesap geçmişi, kullanım verileri ve çeşitli etkileşim metriklerini içerir.
